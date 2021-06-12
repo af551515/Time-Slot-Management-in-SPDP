@@ -1,0 +1,34 @@
+--- Job Integrated model_VI.gms Start 06/12/21 10:31:30 35.1.0 r82a9585 WEX-WEI x86 64bit/MS Windows
+--- Applying:
+    C:\GAMS\35\gmsprmNT.txt
+--- GAMS Parameters defined
+    Input "C:\Users\af551515\Dropbox\TSA_SPDPTW_May2021\CIE_Attachments\Dataset_CIE_Sent Revision2\Code\GAMS\Integrated model_VI.gms"
+    PageSize 0
+    ScrDir "C:\Users\af551515\Dropbox\TSA_SPDPTW_May2021\CIE_Attachments\Dataset_CIE_Sent Revision2\Code\GAMS\225a\"
+    SysDir C:\GAMS\35\
+    LogOption 3
+    ErrMsg 1
+    ErrorLog 99
+    IDE 1
+    LstTitleLeftAligned 1
+Licensee: GAMS Demo license for Alireza Fallahtafti      G210521|0002CO-GEN
+          Ohio University, United States of America                DL041729
+          C:\Users\af551515\Documents\GAMS\gamslice.txt
+          af551515@ohio.edu, Alireza Fallahtafti                           
+          Demo license for demonstration and instructional purposes only
+GAMS 35.1.0   Copyright (C) 1987-2021 GAMS Development. All rights reserved
+--- Starting compilation
+--- Integrated model_VI.gms(510) 3 Mb
+--- Starting execution: elapsed 0:00:00.025
+--- Integrated model_VI.gms(498) 4 Mb
+--- Generating MIP model un15
+--- Integrated model_VI.gms(499) 6 Mb
+---   5,238 rows  4,491 columns  29,171 non-zeroes
+---   3,320 discrete-columns
+*** The model exceeds the demo license limits for linear models of more than 2000 rows or columns
+*** Status: Terminated due to a licensing error
+***         License file: C:\Users\af551515\Documents\GAMS\gamslice.txt
+***         Inspect listing file for more information.
+--- Job Integrated model_VI.gms Stop 06/12/21 10:31:31 elapsed 0:00:00.191
+Cannot delete file: 225a\gamsdict.dat
+Cannot delete directory: 225a
